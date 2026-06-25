@@ -1,0 +1,35 @@
+{
+"meta": {
+"title": "Educational attainment by sex, U.S. adults 25+, 2023",
+"source": "U.S. Census Bureau, ACS 2023 5-year (table B15002)",
+"url": "https://data.census.gov/table?q=B15002",
+"retrieved": "2026-06-25",
+"unit": "people (counts)"
+},
+"rowVar": "Sex",
+"colVar": "Highest education",
+"rowLabels": [
+"Male",
+"Female"
+],
+"colLabels": [
+"High school or less",
+"Some college / associate",
+"Bachelor's",
+"Graduate degree"
+],
+"counts": [
+[
+43354972,
+30277984,
+23131281,
+14617230
+],
+[
+40711734,
+34135669,
+25460259,
+16745532
+]
+]
+}

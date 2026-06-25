@@ -120,6 +120,8 @@
     try {
       current = mod;
       mod.render(content);
+      // every lesson gets its extra real-data practice set appended below
+      if (P.renderPracticeBank) P.renderPracticeBank(content, id);
     } catch (err) {
       content.appendChild(el(`<div class="card"><h3>Something broke in this lab</h3>
         <pre class="small" style="white-space:pre-wrap;color:var(--negative)">${String(err && err.stack || err)}</pre></div>`));

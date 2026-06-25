@@ -1,0 +1,267 @@
+{
+"meta": {
+"title": "Total population by state, 2023",
+"source": "U.S. Census Bureau, ACS 2023 5-year (table B01003)",
+"url": "https://data.census.gov/",
+"retrieved": "2026-06-25",
+"unit": "people",
+"n": 51
+},
+"rows": [
+{
+"state": "California",
+"abbr": "CA",
+"population": 39242785
+},
+{
+"state": "Texas",
+"abbr": "TX",
+"population": 29640343
+},
+{
+"state": "Florida",
+"abbr": "FL",
+"population": 21928881
+},
+{
+"state": "New York",
+"abbr": "NY",
+"population": 19872319
+},
+{
+"state": "Pennsylvania",
+"abbr": "PA",
+"population": 12986518
+},
+{
+"state": "Illinois",
+"abbr": "IL",
+"population": 12692653
+},
+{
+"state": "Ohio",
+"abbr": "OH",
+"population": 11780046
+},
+{
+"state": "Georgia",
+"abbr": "GA",
+"population": 10822590
+},
+{
+"state": "North Carolina",
+"abbr": "NC",
+"population": 10584340
+},
+{
+"state": "Michigan",
+"abbr": "MI",
+"population": 10051595
+},
+{
+"state": "New Jersey",
+"abbr": "NJ",
+"population": 9267014
+},
+{
+"state": "Virginia",
+"abbr": "VA",
+"population": 8657499
+},
+{
+"state": "Washington",
+"abbr": "WA",
+"population": 7740984
+},
+{
+"state": "Arizona",
+"abbr": "AZ",
+"population": 7268175
+},
+{
+"state": "Massachusetts",
+"abbr": "MA",
+"population": 6992395
+},
+{
+"state": "Tennessee",
+"abbr": "TN",
+"population": 6986082
+},
+{
+"state": "Indiana",
+"abbr": "IN",
+"population": 6811752
+},
+{
+"state": "Maryland",
+"abbr": "MD",
+"population": 6170738
+},
+{
+"state": "Missouri",
+"abbr": "MO",
+"population": 6168181
+},
+{
+"state": "Wisconsin",
+"abbr": "WI",
+"population": 5892023
+},
+{
+"state": "Colorado",
+"abbr": "CO",
+"population": 5810774
+},
+{
+"state": "Minnesota",
+"abbr": "MN",
+"population": 5713716
+},
+{
+"state": "South Carolina",
+"abbr": "SC",
+"population": 5212774
+},
+{
+"state": "Alabama",
+"abbr": "AL",
+"population": 5054253
+},
+{
+"state": "Louisiana",
+"abbr": "LA",
+"population": 4621025
+},
+{
+"state": "Kentucky",
+"abbr": "KY",
+"population": 4510725
+},
+{
+"state": "Oregon",
+"abbr": "OR",
+"population": 4238714
+},
+{
+"state": "Oklahoma",
+"abbr": "OK",
+"population": 3995260
+},
+{
+"state": "Connecticut",
+"abbr": "CT",
+"population": 3598348
+},
+{
+"state": "Utah",
+"abbr": "UT",
+"population": 3331187
+},
+{
+"state": "Iowa",
+"abbr": "IA",
+"population": 3195937
+},
+{
+"state": "Nevada",
+"abbr": "NV",
+"population": 3141000
+},
+{
+"state": "Arkansas",
+"abbr": "AR",
+"population": 3032651
+},
+{
+"state": "Mississippi",
+"abbr": "MS",
+"population": 2951438
+},
+{
+"state": "Kansas",
+"abbr": "KS",
+"population": 2937569
+},
+{
+"state": "New Mexico",
+"abbr": "NM",
+"population": 2114768
+},
+{
+"state": "Nebraska",
+"abbr": "NE",
+"population": 1965926
+},
+{
+"state": "Idaho",
+"abbr": "ID",
+"population": 1893296
+},
+{
+"state": "West Virginia",
+"abbr": "WV",
+"population": 1784462
+},
+{
+"state": "Hawaii",
+"abbr": "HI",
+"population": 1445635
+},
+{
+"state": "New Hampshire",
+"abbr": "NH",
+"population": 1387834
+},
+{
+"state": "Maine",
+"abbr": "ME",
+"population": 1377400
+},
+{
+"state": "Montana",
+"abbr": "MT",
+"population": 1105072
+},
+{
+"state": "Rhode Island",
+"abbr": "RI",
+"population": 1095371
+},
+{
+"state": "Delaware",
+"abbr": "DE",
+"population": 1005872
+},
+{
+"state": "South Dakota",
+"abbr": "SD",
+"population": 899194
+},
+{
+"state": "North Dakota",
+"abbr": "ND",
+"population": 779361
+},
+{
+"state": "Alaska",
+"abbr": "AK",
+"population": 733971
+},
+{
+"state": "District of Columbia",
+"abbr": "DC",
+"population": 672079
+},
+{
+"state": "Vermont",
+"abbr": "VT",
+"population": 645254
+},
+{
+"state": "Wyoming",
+"abbr": "WY",
+"population": 579761
+}
+]
+}

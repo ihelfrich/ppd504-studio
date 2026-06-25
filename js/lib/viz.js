@@ -45,11 +45,13 @@
       g.append("g").attr("class", "grid")
         .call(d3.axisLeft(y).ticks(opts.yticks || 6).tickSize(-dims.innerW).tickFormat(""));
     }
+    const xa = d3.axisBottom(x).ticks(opts.xticks || 6);
+    const ya = d3.axisLeft(y).ticks(opts.yticks || 6);
+    if (opts.xfmt) xa.tickFormat(opts.xfmt);
+    if (opts.yfmt) ya.tickFormat(opts.yfmt);
     g.append("g").attr("class", "axis")
-      .attr("transform", `translate(0,${dims.innerH})`)
-      .call(d3.axisBottom(x).ticks(opts.xticks || 6));
-    g.append("g").attr("class", "axis")
-      .call(d3.axisLeft(y).ticks(opts.yticks || 6));
+      .attr("transform", `translate(0,${dims.innerH})`).call(xa);
+    g.append("g").attr("class", "axis").call(ya);
     if (opts.xlabel) {
       g.append("text").attr("class", "axis-label")
         .attr("x", dims.innerW / 2).attr("y", dims.innerH + 34)

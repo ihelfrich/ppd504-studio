@@ -1,0 +1,267 @@
+{
+"meta": {
+"title": "Share of population below the poverty line by state, 2023",
+"source": "U.S. Census Bureau, ACS 2023 5-year (table S1701)",
+"url": "https://data.census.gov/",
+"retrieved": "2026-06-25",
+"unit": "percent below poverty level",
+"n": 51
+},
+"rows": [
+{
+"state": "Alabama",
+"abbr": "AL",
+"povertyPct": 15.6
+},
+{
+"state": "Alaska",
+"abbr": "AK",
+"povertyPct": 10.2
+},
+{
+"state": "Arizona",
+"abbr": "AZ",
+"povertyPct": 12.8
+},
+{
+"state": "Arkansas",
+"abbr": "AR",
+"povertyPct": 16.0
+},
+{
+"state": "California",
+"abbr": "CA",
+"povertyPct": 12.0
+},
+{
+"state": "Colorado",
+"abbr": "CO",
+"povertyPct": 9.4
+},
+{
+"state": "Connecticut",
+"abbr": "CT",
+"povertyPct": 10.0
+},
+{
+"state": "Delaware",
+"abbr": "DE",
+"povertyPct": 10.7
+},
+{
+"state": "District of Columbia",
+"abbr": "DC",
+"povertyPct": 14.5
+},
+{
+"state": "Florida",
+"abbr": "FL",
+"povertyPct": 12.6
+},
+{
+"state": "Georgia",
+"abbr": "GA",
+"povertyPct": 13.5
+},
+{
+"state": "Hawaii",
+"abbr": "HI",
+"povertyPct": 10.0
+},
+{
+"state": "Idaho",
+"abbr": "ID",
+"povertyPct": 10.6
+},
+{
+"state": "Illinois",
+"abbr": "IL",
+"povertyPct": 11.7
+},
+{
+"state": "Indiana",
+"abbr": "IN",
+"povertyPct": 12.2
+},
+{
+"state": "Iowa",
+"abbr": "IA",
+"povertyPct": 11.0
+},
+{
+"state": "Kansas",
+"abbr": "KS",
+"povertyPct": 11.5
+},
+{
+"state": "Kentucky",
+"abbr": "KY",
+"povertyPct": 16.1
+},
+{
+"state": "Louisiana",
+"abbr": "LA",
+"povertyPct": 18.9
+},
+{
+"state": "Maine",
+"abbr": "ME",
+"povertyPct": 10.8
+},
+{
+"state": "Maryland",
+"abbr": "MD",
+"povertyPct": 9.3
+},
+{
+"state": "Massachusetts",
+"abbr": "MA",
+"povertyPct": 10.0
+},
+{
+"state": "Michigan",
+"abbr": "MI",
+"povertyPct": 13.1
+},
+{
+"state": "Minnesota",
+"abbr": "MN",
+"povertyPct": 9.2
+},
+{
+"state": "Mississippi",
+"abbr": "MS",
+"povertyPct": 19.1
+},
+{
+"state": "Missouri",
+"abbr": "MO",
+"povertyPct": 12.6
+},
+{
+"state": "Montana",
+"abbr": "MT",
+"povertyPct": 12.0
+},
+{
+"state": "Nebraska",
+"abbr": "NE",
+"povertyPct": 10.3
+},
+{
+"state": "Nevada",
+"abbr": "NV",
+"povertyPct": 12.6
+},
+{
+"state": "New Hampshire",
+"abbr": "NH",
+"povertyPct": 7.2
+},
+{
+"state": "New Jersey",
+"abbr": "NJ",
+"povertyPct": 9.8
+},
+{
+"state": "New Mexico",
+"abbr": "NM",
+"povertyPct": 18.1
+},
+{
+"state": "New York",
+"abbr": "NY",
+"povertyPct": 13.7
+},
+{
+"state": "North Carolina",
+"abbr": "NC",
+"povertyPct": 13.2
+},
+{
+"state": "North Dakota",
+"abbr": "ND",
+"povertyPct": 10.6
+},
+{
+"state": "Ohio",
+"abbr": "OH",
+"povertyPct": 13.2
+},
+{
+"state": "Oklahoma",
+"abbr": "OK",
+"povertyPct": 15.3
+},
+{
+"state": "Oregon",
+"abbr": "OR",
+"povertyPct": 11.9
+},
+{
+"state": "Pennsylvania",
+"abbr": "PA",
+"povertyPct": 11.8
+},
+{
+"state": "Rhode Island",
+"abbr": "RI",
+"povertyPct": 10.9
+},
+{
+"state": "South Carolina",
+"abbr": "SC",
+"povertyPct": 14.2
+},
+{
+"state": "South Dakota",
+"abbr": "SD",
+"povertyPct": 12.0
+},
+{
+"state": "Tennessee",
+"abbr": "TN",
+"povertyPct": 13.8
+},
+{
+"state": "Texas",
+"abbr": "TX",
+"povertyPct": 13.8
+},
+{
+"state": "Utah",
+"abbr": "UT",
+"povertyPct": 8.6
+},
+{
+"state": "Vermont",
+"abbr": "VT",
+"povertyPct": 10.3
+},
+{
+"state": "Virginia",
+"abbr": "VA",
+"povertyPct": 9.9
+},
+{
+"state": "Washington",
+"abbr": "WA",
+"povertyPct": 9.9
+},
+{
+"state": "West Virginia",
+"abbr": "WV",
+"povertyPct": 16.6
+},
+{
+"state": "Wisconsin",
+"abbr": "WI",
+"povertyPct": 10.6
+},
+{
+"state": "Wyoming",
+"abbr": "WY",
+"povertyPct": 10.7
+}
+]
+}

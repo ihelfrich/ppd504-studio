@@ -1,0 +1,267 @@
+{
+"meta": {
+"title": "Median household income by state, 2023",
+"source": "U.S. Census Bureau, American Community Survey 2023 5-year (table B19013)",
+"url": "https://data.census.gov/table?q=B19013",
+"retrieved": "2026-06-25",
+"unit": "US dollars",
+"n": 51
+},
+"rows": [
+{
+"state": "Alabama",
+"abbr": "AL",
+"medianIncome": 62027
+},
+{
+"state": "Alaska",
+"abbr": "AK",
+"medianIncome": 89336
+},
+{
+"state": "Arizona",
+"abbr": "AZ",
+"medianIncome": 76872
+},
+{
+"state": "Arkansas",
+"abbr": "AR",
+"medianIncome": 58773
+},
+{
+"state": "California",
+"abbr": "CA",
+"medianIncome": 96334
+},
+{
+"state": "Colorado",
+"abbr": "CO",
+"medianIncome": 92470
+},
+{
+"state": "Connecticut",
+"abbr": "CT",
+"medianIncome": 93760
+},
+{
+"state": "Delaware",
+"abbr": "DE",
+"medianIncome": 82855
+},
+{
+"state": "District of Columbia",
+"abbr": "DC",
+"medianIncome": 106287
+},
+{
+"state": "Florida",
+"abbr": "FL",
+"medianIncome": 71711
+},
+{
+"state": "Georgia",
+"abbr": "GA",
+"medianIncome": 74664
+},
+{
+"state": "Hawaii",
+"abbr": "HI",
+"medianIncome": 98317
+},
+{
+"state": "Idaho",
+"abbr": "ID",
+"medianIncome": 74636
+},
+{
+"state": "Illinois",
+"abbr": "IL",
+"medianIncome": 81702
+},
+{
+"state": "Indiana",
+"abbr": "IN",
+"medianIncome": 70051
+},
+{
+"state": "Iowa",
+"abbr": "IA",
+"medianIncome": 73147
+},
+{
+"state": "Kansas",
+"abbr": "KS",
+"medianIncome": 72639
+},
+{
+"state": "Kentucky",
+"abbr": "KY",
+"medianIncome": 62417
+},
+{
+"state": "Louisiana",
+"abbr": "LA",
+"medianIncome": 60023
+},
+{
+"state": "Maine",
+"abbr": "ME",
+"medianIncome": 71773
+},
+{
+"state": "Maryland",
+"abbr": "MD",
+"medianIncome": 101652
+},
+{
+"state": "Massachusetts",
+"abbr": "MA",
+"medianIncome": 101341
+},
+{
+"state": "Michigan",
+"abbr": "MI",
+"medianIncome": 71149
+},
+{
+"state": "Minnesota",
+"abbr": "MN",
+"medianIncome": 87556
+},
+{
+"state": "Mississippi",
+"abbr": "MS",
+"medianIncome": 54915
+},
+{
+"state": "Missouri",
+"abbr": "MO",
+"medianIncome": 68920
+},
+{
+"state": "Montana",
+"abbr": "MT",
+"medianIncome": 69922
+},
+{
+"state": "Nebraska",
+"abbr": "NE",
+"medianIncome": 74985
+},
+{
+"state": "Nevada",
+"abbr": "NV",
+"medianIncome": 75561
+},
+{
+"state": "New Hampshire",
+"abbr": "NH",
+"medianIncome": 95628
+},
+{
+"state": "New Jersey",
+"abbr": "NJ",
+"medianIncome": 101050
+},
+{
+"state": "New Mexico",
+"abbr": "NM",
+"medianIncome": 62125
+},
+{
+"state": "New York",
+"abbr": "NY",
+"medianIncome": 84578
+},
+{
+"state": "North Carolina",
+"abbr": "NC",
+"medianIncome": 69904
+},
+{
+"state": "North Dakota",
+"abbr": "ND",
+"medianIncome": 75949
+},
+{
+"state": "Ohio",
+"abbr": "OH",
+"medianIncome": 69680
+},
+{
+"state": "Oklahoma",
+"abbr": "OK",
+"medianIncome": 63603
+},
+{
+"state": "Oregon",
+"abbr": "OR",
+"medianIncome": 80426
+},
+{
+"state": "Pennsylvania",
+"abbr": "PA",
+"medianIncome": 76081
+},
+{
+"state": "Rhode Island",
+"abbr": "RI",
+"medianIncome": 86372
+},
+{
+"state": "South Carolina",
+"abbr": "SC",
+"medianIncome": 66818
+},
+{
+"state": "South Dakota",
+"abbr": "SD",
+"medianIncome": 72421
+},
+{
+"state": "Tennessee",
+"abbr": "TN",
+"medianIncome": 67097
+},
+{
+"state": "Texas",
+"abbr": "TX",
+"medianIncome": 76292
+},
+{
+"state": "Utah",
+"abbr": "UT",
+"medianIncome": 91750
+},
+{
+"state": "Vermont",
+"abbr": "VT",
+"medianIncome": 78024
+},
+{
+"state": "Virginia",
+"abbr": "VA",
+"medianIncome": 90974
+},
+{
+"state": "Washington",
+"abbr": "WA",
+"medianIncome": 94952
+},
+{
+"state": "West Virginia",
+"abbr": "WV",
+"medianIncome": 57917
+},
+{
+"state": "Wisconsin",
+"abbr": "WI",
+"medianIncome": 75670
+},
+{
+"state": "Wyoming",
+"abbr": "WY",
+"medianIncome": 74815
+}
+]
+}

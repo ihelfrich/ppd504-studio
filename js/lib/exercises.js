@@ -135,14 +135,28 @@
     ex.parts.forEach((part, i) => {
       const wrap = V.el("div", { style: { margin: "10px 0", borderTop: i ? "1px solid var(--line)" : "none", paddingTop: i ? "12px" : "0" } });
       wrap.appendChild(V.el("div", { html: `<b>${i + 1}.</b> ${part.q}`, style: { fontSize: "14.5px" } }));
-      const btn = V.el("button.btn.ghost.small", { text: "Show solution", style: { marginTop: "8px" } });
+      const btns = V.el("div.btn-row", { style: { marginTop: "8px" } });
+      const hintBox = V.el("div.callout", { html: part.hint || "", style: { display: "none", marginTop: "8px" } });
       const ans = V.el("div.callout.key", { html: part.a, style: { display: "none", marginTop: "8px" } });
+      if (part.hint) {
+        const bH = V.el("button.btn.ghost.small", { text: "Hint" });
+        bH.addEventListener("click", () => {
+          const open = hintBox.style.display !== "none";
+          hintBox.style.display = open ? "none" : "block";
+          bH.textContent = open ? "Hint" : "Hide hint";
+        });
+        btns.appendChild(bH);
+      }
+      const btn = V.el("button.btn.small", { text: "Show solution" });
       btn.addEventListener("click", () => {
         const open = ans.style.display !== "none";
         ans.style.display = open ? "none" : "block";
         btn.textContent = open ? "Show solution" : "Hide solution";
       });
-      wrap.appendChild(btn); wrap.appendChild(ans);
+      btns.appendChild(btn);
+      wrap.appendChild(btns);
+      if (part.hint) wrap.appendChild(hintBox);
+      wrap.appendChild(ans);
       card.appendChild(wrap);
     });
     container.appendChild(card);

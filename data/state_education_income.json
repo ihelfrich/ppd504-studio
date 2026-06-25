@@ -1,0 +1,319 @@
+{
+"meta": {
+"title": "Bachelor's degree attainment vs median household income by state, 2023",
+"source": "U.S. Census Bureau, ACS 2023 5-year (S1501 percent bachelor's+ among age 25+, B19013 median income)",
+"url": "https://data.census.gov/",
+"retrieved": "2026-06-25",
+"unitX": "percent of adults 25+ with a bachelor's degree or higher",
+"unitY": "median household income (US dollars)",
+"n": 51
+},
+"rows": [
+{
+"state": "Alabama",
+"abbr": "AL",
+"bachelorsPct": 27.8,
+"medianIncome": 62027
+},
+{
+"state": "Alaska",
+"abbr": "AK",
+"bachelorsPct": 31.2,
+"medianIncome": 89336
+},
+{
+"state": "Arizona",
+"abbr": "AZ",
+"bachelorsPct": 32.6,
+"medianIncome": 76872
+},
+{
+"state": "Arkansas",
+"abbr": "AR",
+"bachelorsPct": 25.1,
+"medianIncome": 58773
+},
+{
+"state": "California",
+"abbr": "CA",
+"bachelorsPct": 36.5,
+"medianIncome": 96334
+},
+{
+"state": "Colorado",
+"abbr": "CO",
+"bachelorsPct": 44.7,
+"medianIncome": 92470
+},
+{
+"state": "Connecticut",
+"abbr": "CT",
+"bachelorsPct": 41.9,
+"medianIncome": 93760
+},
+{
+"state": "Delaware",
+"abbr": "DE",
+"bachelorsPct": 35.3,
+"medianIncome": 82855
+},
+{
+"state": "District of Columbia",
+"abbr": "DC",
+"bachelorsPct": 63.6,
+"medianIncome": 106287
+},
+{
+"state": "Florida",
+"abbr": "FL",
+"bachelorsPct": 33.2,
+"medianIncome": 71711
+},
+{
+"state": "Georgia",
+"abbr": "GA",
+"bachelorsPct": 34.2,
+"medianIncome": 74664
+},
+{
+"state": "Hawaii",
+"abbr": "HI",
+"bachelorsPct": 35.5,
+"medianIncome": 98317
+},
+{
+"state": "Idaho",
+"abbr": "ID",
+"bachelorsPct": 31.2,
+"medianIncome": 74636
+},
+{
+"state": "Illinois",
+"abbr": "IL",
+"bachelorsPct": 37.2,
+"medianIncome": 81702
+},
+{
+"state": "Indiana",
+"abbr": "IN",
+"bachelorsPct": 28.8,
+"medianIncome": 70051
+},
+{
+"state": "Iowa",
+"abbr": "IA",
+"bachelorsPct": 30.9,
+"medianIncome": 73147
+},
+{
+"state": "Kansas",
+"abbr": "KS",
+"bachelorsPct": 35.2,
+"medianIncome": 72639
+},
+{
+"state": "Kentucky",
+"abbr": "KY",
+"bachelorsPct": 27.0,
+"medianIncome": 62417
+},
+{
+"state": "Louisiana",
+"abbr": "LA",
+"bachelorsPct": 26.6,
+"medianIncome": 60023
+},
+{
+"state": "Maine",
+"abbr": "ME",
+"bachelorsPct": 35.3,
+"medianIncome": 71773
+},
+{
+"state": "Maryland",
+"abbr": "MD",
+"bachelorsPct": 42.7,
+"medianIncome": 101652
+},
+{
+"state": "Massachusetts",
+"abbr": "MA",
+"bachelorsPct": 46.6,
+"medianIncome": 101341
+},
+{
+"state": "Michigan",
+"abbr": "MI",
+"bachelorsPct": 31.8,
+"medianIncome": 71149
+},
+{
+"state": "Minnesota",
+"abbr": "MN",
+"bachelorsPct": 38.8,
+"medianIncome": 87556
+},
+{
+"state": "Mississippi",
+"abbr": "MS",
+"bachelorsPct": 24.2,
+"medianIncome": 54915
+},
+{
+"state": "Missouri",
+"abbr": "MO",
+"bachelorsPct": 31.9,
+"medianIncome": 68920
+},
+{
+"state": "Montana",
+"abbr": "MT",
+"bachelorsPct": 34.5,
+"medianIncome": 69922
+},
+{
+"state": "Nebraska",
+"abbr": "NE",
+"bachelorsPct": 34.1,
+"medianIncome": 74985
+},
+{
+"state": "Nevada",
+"abbr": "NV",
+"bachelorsPct": 27.4,
+"medianIncome": 75561
+},
+{
+"state": "New Hampshire",
+"abbr": "NH",
+"bachelorsPct": 39.8,
+"medianIncome": 95628
+},
+{
+"state": "New Jersey",
+"abbr": "NJ",
+"bachelorsPct": 42.9,
+"medianIncome": 101050
+},
+{
+"state": "New Mexico",
+"abbr": "NM",
+"bachelorsPct": 30.2,
+"medianIncome": 62125
+},
+{
+"state": "New York",
+"abbr": "NY",
+"bachelorsPct": 39.6,
+"medianIncome": 84578
+},
+{
+"state": "North Carolina",
+"abbr": "NC",
+"bachelorsPct": 34.7,
+"medianIncome": 69904
+},
+{
+"state": "North Dakota",
+"abbr": "ND",
+"bachelorsPct": 32.3,
+"medianIncome": 75949
+},
+{
+"state": "Ohio",
+"abbr": "OH",
+"bachelorsPct": 30.9,
+"medianIncome": 69680
+},
+{
+"state": "Oklahoma",
+"abbr": "OK",
+"bachelorsPct": 27.8,
+"medianIncome": 63603
+},
+{
+"state": "Oregon",
+"abbr": "OR",
+"bachelorsPct": 36.2,
+"medianIncome": 80426
+},
+{
+"state": "Pennsylvania",
+"abbr": "PA",
+"bachelorsPct": 34.5,
+"medianIncome": 76081
+},
+{
+"state": "Rhode Island",
+"abbr": "RI",
+"bachelorsPct": 37.3,
+"medianIncome": 86372
+},
+{
+"state": "South Carolina",
+"abbr": "SC",
+"bachelorsPct": 31.5,
+"medianIncome": 66818
+},
+{
+"state": "South Dakota",
+"abbr": "SD",
+"bachelorsPct": 31.1,
+"medianIncome": 72421
+},
+{
+"state": "Tennessee",
+"abbr": "TN",
+"bachelorsPct": 30.4,
+"medianIncome": 67097
+},
+{
+"state": "Texas",
+"abbr": "TX",
+"bachelorsPct": 33.1,
+"medianIncome": 76292
+},
+{
+"state": "Utah",
+"abbr": "UT",
+"bachelorsPct": 36.9,
+"medianIncome": 91750
+},
+{
+"state": "Vermont",
+"abbr": "VT",
+"bachelorsPct": 42.6,
+"medianIncome": 78024
+},
+{
+"state": "Virginia",
+"abbr": "VA",
+"bachelorsPct": 41.5,
+"medianIncome": 90974
+},
+{
+"state": "Washington",
+"abbr": "WA",
+"bachelorsPct": 38.8,
+"medianIncome": 94952
+},
+{
+"state": "West Virginia",
+"abbr": "WV",
+"bachelorsPct": 23.3,
+"medianIncome": 57917
+},
+{
+"state": "Wisconsin",
+"abbr": "WI",
+"bachelorsPct": 32.8,
+"medianIncome": 75670
+},
+{
+"state": "Wyoming",
+"abbr": "WY",
+"bachelorsPct": 29.9,
+"medianIncome": 74815
+}
+]
+}
