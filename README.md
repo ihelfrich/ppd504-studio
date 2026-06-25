@@ -47,6 +47,27 @@ Four weeks of the course, one lab per concept:
 
 The real **in-class exercises** from Weeks 3 and 4 are built in as "Practice" cards with reveal-able, verified solutions.
 
+## Practice problems and real data
+
+Every lesson ends with a **More practice** card: 4 to 5 problems each, 80 in total, each with a graduated **Hint** then **Show solution** toggle.
+
+- **Data-driven problems** carry real public data and compute their answers live from the bundled numbers via the stats library, so no answer can drift or be fabricated. Each cites its source.
+- **Conceptual / interpretive problems** build judgment (interpret an R-squared, spot the confounder, choose the right measure) using short policy scenarios.
+
+Datasets embedded in `data/` (and `js/lib/data.js` for offline use), snapshotted with provenance:
+
+| Dataset | Source |
+|---|---|
+| State median household income, 2023 | Census ACS 2023 5-year, B19013 |
+| Bachelor's attainment vs income by state | Census ACS 2023 5-year, S1501 + B19013 |
+| State poverty rate, 2023 | Census ACS 2023 5-year, S1701 |
+| State population, 2023 | Census ACS 2023 5-year, B01003 |
+| Educational attainment by sex (US, 25+) | Census ACS 2023 5-year, B15002 |
+| US unemployment rate, monthly | BLS via FRED, UNRATE |
+| US median house sales price, quarterly | Census/HUD via FRED, MSPUS |
+
+Refresh the data with `python3 scripts/build_data.py` (needs Census/FRED API keys in the shell environment; keys are never written to any file).
+
 ## Architecture
 
 ```
