@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>PPD 504 Studio · Essential Statistics for Public Management</title>
+  <meta name="description" content="Interactive labs for PPD 504: sampling, describing data, probability, correlation and regression." />
+  <link rel="stylesheet" href="css/styles.css" />
+  <!-- vendored locally: no network needed, loads instantly -->
+  <script defer src="vendor/d3.v7.min.js"></script>
+  <script defer src="js/lib/stats.js"></script>
+  <script defer src="js/lib/viz.js"></script>
+  <script defer src="js/lib/exercises.js"></script>
+  <!-- Week 1 -->
+  <script defer src="js/modules/w1-sampling.js"></script>
+  <script defer src="js/modules/w1-bias.js"></script>
+  <script defer src="js/modules/w1-confounding.js"></script>
+  <script defer src="js/modules/w1-ethics.js"></script>
+  <!-- Week 2 -->
+  <script defer src="js/modules/w2-vartypes.js"></script>
+  <script defer src="js/modules/w2-histogram.js"></script>
+  <script defer src="js/modules/w2-meanmedian.js"></script>
+  <script defer src="js/modules/w2-spread.js"></script>
+  <script defer src="js/modules/w2-boxplot.js"></script>
+  <!-- Week 3 -->
+  <script defer src="js/modules/w3-longrun.js"></script>
+  <script defer src="js/modules/w3-benford.js"></script>
+  <script defer src="js/modules/w3-density.js"></script>
+  <script defer src="js/modules/w3-normal.js"></script>
+  <script defer src="js/modules/w3-zscore.js"></script>
+  <!-- Week 4 -->
+  <script defer src="js/modules/w4-scatter.js"></script>
+  <script defer src="js/modules/w4-traps.js"></script>
+  <script defer src="js/modules/w4-twoway.js"></script>
+  <script defer src="js/modules/w4-ols.js"></script>
+  <script defer src="js/modules/w4-residuals.js"></script>
+  <!-- app shell last -->
+  <script defer src="js/app.js"></script>
+</head>
+<body>
+  <div class="app">
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="mark">σ</div>
+        <div>
+          <b>PPD 504 Studio</b>
+          <span>Essential Statistics for Public Management</span>
+        </div>
+      </div>
+      <nav id="nav"></nav>
+    </aside>
+    <main class="main">
+      <div class="topbar">
+        <div class="crumb" id="crumb"><b>PPD 504 Studio</b></div>
+        <div class="spacer"></div>
+        <div class="pill">USC Price · Meier–Brudney–Bohte</div>
+      </div>
+      <div class="content" id="content"></div>
+    </main>
+  </div>
+</body>
+</html>
